@@ -57,7 +57,7 @@ Los tiempos promedio de espera fueron:
 | 2 retiros + 1 pago | 2,78 minutos |
 | 4 cajas mixtas | 0,17 minutos |
 | 2 retiros + 2 pagos | 0,59 minutos |
-| 3 retiros + 1 pago | 2,50 minutos |
+| 3 retiros + 1 pago | 2,50 minutos | 
 
 Al comparar los resultados, observé que las tres cajas mixtas ofrecen mejores tiempos de espera que las dos alternativas de cajas exclusivas con tres cajeros.
 
