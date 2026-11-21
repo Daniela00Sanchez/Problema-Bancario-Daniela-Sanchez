@@ -1,4 +1,4 @@
-# Simulación del problema bancario
+# Simulación del problema bancario 
 
 **Estudiante:** Daniela María Sánchez Sánchez 
 
