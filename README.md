@@ -1,8 +1,11 @@
 # Simulación del problema bancario
 
-**Estudiante:** Daniela María Sánchez Sánchez  
-**Asignatura:** Simulación 
+**Estudiante:** Daniela María Sánchez Sánchez 
+
+**Asignatura:** Simulación
+
 **programa:**  Ingeniería de desarrollo de software y base de datos
+
 **Herramienta utilizada:** Python en Google Colab
 
 ## 1. Descripción del proyecto
