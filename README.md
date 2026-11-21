@@ -79,7 +79,7 @@ En este repositorio se encuentran:
 - Las gráficas de tiempos de atención, cantidad de usuarios y comparación de escenarios.
 - Los archivos CSV con los resultados estadísticos y las réplicas.
 - El documento académico con la metodología, los resultados, las gráficas y las conclusiones.
-- El código utiliza las bibliotecas NumPy, Pandas, SciPy y Matplotlib.
+  
 
 - ## 7. Cómo ejecutar el programa
 
