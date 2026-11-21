@@ -81,8 +81,17 @@ En este repositorio se encuentran:
 - El documento académico con la metodología, los resultados, las gráficas y las conclusiones.
 - El código utiliza las bibliotecas NumPy, Pandas, SciPy y Matplotlib.
 
+- ## 8. Cómo ejecutar el programa
 
-## 7. Conclusiones
+1. Descargar el archivo .ipynb de este repositorio.
+2. Abrir Google Colab.
+3. Seleccionar Archivo → Subir cuaderno.
+4. Cargar el archivo descargado.
+5. Seleccionar Entorno de ejecución → Ejecutar todas.
+6. Revisar las tablas, gráficas y resultados obtenidos.
+
+
+## 9. Conclusiones
 
 Con esta actividad pude comprender mejor cómo se utilizan las simulaciones para estudiar los tiempos de espera y la atención de los clientes.
 
