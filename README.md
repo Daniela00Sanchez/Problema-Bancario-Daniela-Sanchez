@@ -82,7 +82,7 @@ En este repositorio se encuentran:
 - El código utiliza las bibliotecas NumPy, Pandas, SciPy y Matplotlib.
 
 
-## 8. Conclusiones
+## 7. Conclusiones
 
 Con esta actividad pude comprender mejor cómo se utilizan las simulaciones para estudiar los tiempos de espera y la atención de los clientes.
 
